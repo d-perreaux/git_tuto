@@ -4,3 +4,7 @@ git commit -m "commit after create g1"
 
 first problmen after the first commit on g1
 /fun fact : try to thinking about the autosave dumbass
+
+commit après dérivation du main
+
+
